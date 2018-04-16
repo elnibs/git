@@ -1,2 +1,3 @@
+commit1
 conflict
 extra line for rebase
