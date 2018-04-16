@@ -4,3 +4,5 @@ extra line for rebase
 
 new line
 another new line
+test1
+test2
