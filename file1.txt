@@ -3,3 +3,4 @@ conflict
 extra line for rebase
 
 new line
+another new line
